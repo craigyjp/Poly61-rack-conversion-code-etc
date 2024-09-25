@@ -14,4 +14,4 @@ The second schematic receives MIDI on channel 1 only currently and generates a C
 And it also controls two channels of a quad VCA to allow the modulation LFO to go to the modulation input of the clock board and the cutoff frequency of the filters.
 Thus providing FM and TM on CC numbers 2 and 3, there is already FM on CC 1 as normal modulation but it is not very strong.
 
-
+![Synth](photos/synth.jpg)
